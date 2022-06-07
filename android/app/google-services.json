@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "418887232241",
+    "project_id": "makeupapp-85ac7",
+    "storage_bucket": "makeupapp-85ac7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:418887232241:android:8e1431d62a463a3be05750",
+        "android_client_info": {
+          "package_name": "com.Smok1nAces.demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "418887232241-c5jsmbj1i7kfvfcppb4p2e90ooq87o3r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.Smok1nAces.demo",
+            "certificate_hash": "b1196c909fa7916252c1a14cbb7a292168120e62"
+          }
+        },
+        {
+          "client_id": "418887232241-6lc0rs5rforublarvc0pc024rmq32g2v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMa3pJSdy6G3p-TDO8fzGo8bTTbuGIMWU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "418887232241-6lc0rs5rforublarvc0pc024rmq32g2v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
